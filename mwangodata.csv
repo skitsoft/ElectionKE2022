@@ -1,0 +1,292 @@
+County,Constituency,Code,RegisteredVoters,Raila,Ruto,Mwaure,Wajackoyah
+Baringo,Baringo North,158,50287,923,37635,16,56
+Baringo,Baringo Central,159,45949,1656,33162,26,62
+Baringo,Baringo South,160,42791,7351,25533,41,90
+Baringo,Eldama Ravine,162,64099,5122,42118,72,114
+Baringo,Mogotio,161,38922,982,30824,34,49
+Baringo,Tiaty,157,39059,25286,5721,29,105
+Bomet,Bomet Central,197,71409,2024,55486,55,105
+Bomet,Bomet East,196,63661,1769,47987,38,107
+Bomet,Chepalungu,195,80140,5009,58827,54,142
+Bomet,Konoin,198,75115,2164,56262,36,98
+Bomet,Sotik,194,86698,2417,66866,51,109
+Bungoma,Bumula,219,82047,22177,28968,213,358
+Bungoma,Kabuchai,218,67221,10798,32216,192,271
+Bungoma,Kanduyi,220,118347,30926,38384,204,413
+Bungoma,Kimilili,223,61587,14119,22954,130,234
+Bungoma,Mt. Elgon,216,76159,5650,48656,148,149
+Bungoma,Sirisia,217,48717,11992,17392,123,168
+Bungoma,Tongaren,224,,,,,
+Bungoma,Webuye East,221,48950,13720,16412,110,249
+Bungoma,Webuye West,222,58632,10876,25095,179,222
+Busia,Budalangi,231,46032,20180,11361,46,157
+Busia,Butula,229,67377,40161,3663,65,278
+Busia,Funyula,230,54031,29826,7163,83,239
+Busia,Matayos,228,67770,34916,8700,60,207
+Busia,Nambale,227,50545,28363,5086,55,182
+Busia,Teso North,225,59795,32176,6760,85,181
+Busia,Teso South,226,71268,40695,6094,80,162
+Diaspora,,,,,,,
+Elgeyo/marakwet,Keiyo North,149,49267,1266,37337,30,32
+Elgeyo/marakwet,Keiyo South,150,62397,1611,46436,30,55
+Elgeyo/marakwet,Marakwet East,147,43672,735,31880,29,42
+Elgeyo/marakwet,Marakwet West,148,58568,1290,44439,31,47
+Embu,Manyatta,63,106970,8537,59855,163,381
+Embu,Mbeere North,66,55124,3407,34000,117,253
+Embu,Mbeere South,65,77264,13978,36317,141,357
+Embu,Runyenjes,64,95326,5191,57695,104,397
+Garissa,Balambala,28,26085,5714,7854,12,73
+Garissa,Dadaab,30,,,,,
+Garissa,Fafi,31,,,,,
+Garissa,Garissa Township,27,53293,16925,8031,18,112
+Garissa,Ijara,32,29666,18214,1367,7,56
+Garissa,Lagdera,29,,,,,
+Homa Bay,Homa Bay Town,249,58375,43075,638,12,134
+Homa Bay,Kabondo Kasipul,246,59910,42088,260,16,66
+Homa Bay,Karachuonyo,247,94181,68340,648,7,88
+Homa Bay,Kasipul,245,67397,48164,407,27,122
+Homa Bay,Ndhiwa,250,,,,,
+Homa Bay,Rangwe,248,,,,,
+Homa Bay,Suba North,251,60674,45041,309,10,62
+Homa Bay,Suba South,252,,,,,
+Isiolo,Isiolo North,49,67354,19740,22845,40,140
+Isiolo,Isiolo South,50,22181,6696,9455,12,33
+Kajiado,Kajiado Central,184,65866,28468,22585,50,107
+Kajiado,Kajiado East,185,,,,,
+Kajiado,Kajiado North,183,134880,35868,41723,396,365
+Kajiado,Kajiado South,187,71064,23614,27333,147,114
+Kajiado,Kajiado West,186,,,,,
+Kakamega,Butere,207,70224,34044,6202,99,327
+Kakamega,Ikolomani,210,56299,24278,8868,53,192
+Kakamega,Khwisero,208,55091,27997,5201,76,235
+Kakamega,Likuyani,200,71778,32618,9301,108,177
+Kakamega,Lugari,199,86908,36606,15025,133,295
+Kakamega,Lurambi,202,89770,36216,14494,99,264
+Kakamega,Malava,201,94417,29088,27152,180,370
+Kakamega,Matungu,206,73930,35136,12010,124,608
+Kakamega,Mumias East,205,50568,19482,10844,65,236
+Kakamega,Mumias West,204,53317,25079,5926,67,254
+Kakamega,Navakholo,203,64743,24690,14579,123,267
+Kakamega,Shinyalu,209,76993,32446,10853,96,212
+Kericho,Ainamoi,190,85246,5722,57059,49,95
+Kericho,Belgut,192,75175,2140,55631,30,76
+Kericho,Bureti,191,95320,1426,76331,40,97
+Kericho,Kipkelion East,188,63679,3303,43898,33,43
+Kericho,Kipkelion West,189,52960,1771,40056,29,51
+Kericho,Sigowet/soin,193,55909,695,45886,26,32
+Kiambu,Gatundu North,112,71810,8745,40310,136,203
+Kiambu,Gatundu South,111,79860,12290,41712,223,311
+Kiambu,Githunguri,116,104592,13429,58343,270,296
+Kiambu,Juja,113,134638,23200,62193,351,501
+Kiambu,Kabete,119,91775,15640,44186,371,460
+Kiambu,Kiambaa,118,104268,18879,48357,347,381
+Kiambu,Kiambu,117,87076,14760,41050,318,318
+Kiambu,Kikuyu,120,98758,16877,47145,429,438
+Kiambu,Lari,122,81196,9162,47315,170,209
+Kiambu,Limuru,121,93019,14498,46051,297,314
+Kiambu,Ruiru,115,172139,32959,68695,483,543
+Kiambu,Thika Town,114,156037,29954,60728,409,436
+Kilifi,Ganze,15,67257,30402,6985,194,381
+Kilifi,Kaloleni,13,73009,25011,11788,174,360
+Kilifi,Kilifi North,11,,,,,
+Kilifi,Kilifi South,12,97696,32548,10978,111,340
+Kilifi,Magarini,17,80295,30568,11049,220,403
+Kilifi,Malindi,16,94605,27676,13841,107,308
+Kilifi,Rabai,14,59165,18645,9700,115,288
+Kirinyaga,Gichugu,101,92495,9216,55744,181,354
+Kirinyaga,Kirinyaga Central,103,82111,8978,48645,129,296
+Kirinyaga,Mwea,100,131788,12912,75070,184,476
+Kirinyaga,Ndia,102,69743,6872,41293,151,232
+Kisii,Bobasi,264,106060,50206,16824,115,320
+Kisii,Bomachoge Borabu,263,,,,,
+Kisii,Bomachoge Chache,265,49301,23419,9223,51,96
+Kisii,Bonchari,261,64630,27960,12127,79,159
+Kisii,Kitutu Chache North,268,56970,18649,15594,94,154
+Kisii,Kitutu Chache South,269,66908,30923,9734,57,172
+Kisii,Nyaribari Chache,267,88654,32216,21366,98,260
+Kisii,Nyaribari Masaba,266,68593,26096,16240,112,195
+Kisii,South Mugirango,262,79004,30496,21289,92,227
+Kisumu,Kisumu Central,240,130149,79955,4458,60,210
+Kisumu,Kisumu East,238,93177,63454,1324,50,113
+Kisumu,Kisumu West,239,,,,,
+Kisumu,Muhoroni,243,79859,56714,2025,34,78
+Kisumu,Nyakach,244,,,,,
+Kisumu,Nyando,242,80757,59994,397,25,65
+Kisumu,Seme,241,62045,46077,247,20,56
+Kitui,Kitui Central,72,77787,29067,16820,144,283
+Kitui,Kitui East,73,65377,28523,13534,202,378
+Kitui,Kitui Rural,71,55000,24668,7845,117,190
+Kitui,Kitui South,74,75372,34267,11746,186,526
+Kitui,Kitui West,70,59047,27673,8363,143,303
+Kitui,Mwingi Central,69,74283,33082,10749,262,430
+Kitui,Mwingi North,67,68829,31655,11508,230,424
+Kitui,Mwingi West,68,57138,26470,8855,162,302
+Kwale,Kinango,10,98123,36159,17398,145,283
+Kwale,Lungalunga,8,64854,22941,10350,98,188
+Kwale,Matuga,9,83078,32722,11901,95,365
+Kwale,Msambweni,7,82261,33795,12259,76,301
+Laikipia,Laikipia East,164,96595,13333,48635,167,264
+Laikipia,Laikipia North,165,47752,14630,13160,43,82
+Laikipia,Laikipia West,163,118986,20943,57192,222,258
+Lamu,Lamu East,21,22047,9564,4639,48,452
+Lamu,Lamu West,22,59421,16598,18237,138,396
+Machakos,Kangundo,77,60796,29808,8405,93,365
+Machakos,Kathiani,79,60224,30984,6624,91,300
+Machakos,Machakos Town,81,117444,50114,19677,196,540
+Machakos,Masinga,75,68879,33981,9031,112,238
+Machakos,Matungulu,78,75841,33249,11991,146,346
+Machakos,Mavoko,80,132163,46183,22051,203,380
+Machakos,Mwala,82,89898,42286,13267,113,411
+Machakos,Yatta,76,82446,38225,10391,121,325
+Makueni,Kaiti,85,65188,33617,7659,95,272
+Makueni,Kibwezi East,88,64740,27072,9762,81,270
+Makueni,Kibwezi West,87,91554,40909,12689,102,304
+Makueni,Kilome,84,59178,28166,7023,82,233
+Makueni,Makueni,86,102827,48774,12492,90,418
+Makueni,Mbooni,83,96029,50649,9706,122,351
+Mandera,Banissa,40,32703,20555,2841,31,79
+Mandera,Lafey,44,18564,9473,2690,19,61
+Mandera,Mandera East,43,48223,18304,7315,41,141
+Mandera,Mandera North,41,45216,20359,3080,67,111
+Mandera,Mandera South,42,,,,,
+Mandera,Mandera West,39,37637,20531,5160,67,156
+Marsabit,Laisamis,48,33446,4161,18776,35,62
+Marsabit,Moyale,45,66408,20595,23768,69,112
+Marsabit,North Horr,46,36855,23160,3040,29,66
+Marsabit,Saku,47,30235,7725,13231,11,63
+Meru,Buuri,57,82341,7107,46441,78,206
+Meru,Central Imenti,58,76495,6001,47078,119,277
+Meru,Igembe Central,52,93471,13343,45495,165,294
+Meru,Igembe North,53,77050,12149,36747,113,279
+Meru,Igembe South,51,77126,13033,36399,111,310
+Meru,North Imenti,56,96623,9680,51696,101,242
+Meru,South Imenti,59,115657,9706,69050,140,435
+Meru,Tigania East,55,,,,,
+Meru,Tigania West,54,70283,8823,36454,112,310
+Migori,Awendo,254,55972,42227,474,12,54
+Migori,Kuria East,260,41976,12031,16795,62,144
+Migori,Kuria West,259,62244,11970,28933,108,186
+Migori,Nyatike,258,73432,54898,453,16,72
+Migori,Rongo,253,59181,44944,578,20,57
+Migori,Suna East,255,54495,38391,2128,27,74
+Migori,Suna West,256,56888,42327,795,15,57
+Migori,Uriri,257,65063,47250,2458,32,126
+Mombasa,Changamwe,1,93561,24237,19098,73,186
+Mombasa,Jomvu,2,75085,20863,13962,51,227
+Mombasa,Kisauni,3,,,,,
+Mombasa,Likoni,5,94764,24444,12908,47,244
+Mombasa,Mvita,6,,,,,
+Mombasa,Nyali,4,124253,31717,23613,109,568
+Muranga,Gatanga,110,101296,15117,53443,272,323
+Muranga,Kandara,109,105148,11118,59613,255,305
+Muranga,Kangema,104,52002,5456,29242,137,130
+Muranga,Kigumo,107,82609,11170,45949,219,260
+Muranga,Kiharu,106,119465,13114,66959,284,386
+Muranga,Maragwa,108,102405,11271,55962,216,324
+Muranga,Mathioya,105,58102,6293,32313,149,214
+Nairobi City,Dagoretti North,275,157659,56560,25744,468,438
+Nairobi City,Dagoretti South,276,114930,26947,40120,230,328
+Nairobi City,Embakasi Central,284,145892,42580,39412,177,279
+Nairobi City,Embakasi East,285,,,,,
+Nairobi City,Embakasi North,283,113344,35573,33401,120,160
+Nairobi City,Embakasi South,282,,,,,
+Nairobi City,Embakasi West,286,141878,45039,34736,290,422
+Nairobi City,Kamukunji,288,128516,35552,25830,99,253
+Nairobi City,Kasarani,280,155250,35027,55300,573,498
+Nairobi City,Kibra,278,128282,55230,19321,232,291
+Nairobi City,Langata,277,145870,51163,27871,534,528
+Nairobi City,Makadara,287,129627,43352,30138,283,332
+Nairobi City,Mathare,290,123163,41177,24814,97,258
+Nairobi City,Roysambu,279,154711,31022,59165,399,398
+Nairobi City,Ruaraka,281,124482,58539,15182,68,159
+Nairobi City,Starehe,289,,,,,
+Nairobi City,Westlands,274,,,,,
+Nakuru,Bahati,174,97040,18668,44847,256,291
+Nakuru,Gilgil,169,95654,20997,39225,246,275
+Nakuru,Kuresoi North,171,70663,8353,40542,57,85
+Nakuru,Kuresoi South,170,66168,782,49010,24,65
+Nakuru,Molo,166,77027,18632,29472,132,149
+Nakuru,Naivasha,168,157606,36487,61915,293,429
+Nakuru,Nakuru Town East,176,125551,34223,40942,296,382
+Nakuru,Nakuru Town West,175,112308,36824,32982,119,211
+Nakuru,Njoro,167,113274,28954,44747,203,271
+Nakuru,Rongai,173,84625,13799,42232,96,134
+Nakuru,Subukia,172,55599,8301,29772,101,149
+Nandi,Aldai,152,78005,6919,51402,60,125
+Nandi,Chesumei,154,74201,5700,49681,53,103
+Nandi,Emgwen,155,67045,7602,41086,57,85
+Nandi,Mosop,156,77786,1180,60343,46,46
+Nandi,Nandi Hills,153,57910,3471,38308,40,45
+Nandi,Tinderet,151,51446,927,39998,24,41
+Narok,Emurua Dikirr,178,44040,501,35186,30,36
+Narok,Kilgoris,177,,,,,
+Narok,Narok East,180,46535,23686,12164,28,45
+Narok,Narok North,179,,,,,
+Narok,Narok South,181,,,,,
+Narok,Narok West,182,,,,,
+Nyamira,Borabu,273,,,,,
+Nyamira,Kitutu Masaba,270,106269,45526,23846,128,281
+Nyamira,North Mugirango,272,64750,23588,18965,66,166
+Nyamira,West Mugirango,271,,,,,
+Nyandarua,Kinangop,89,115547,15359,61960,260,328
+Nyandarua,Kipipiri,90,54628,7816,28770,138,181
+Nyandarua,Ndaragwa,93,57486,7232,30875,93,140
+Nyandarua,Ol Jorok,92,60199,7581,31982,140,164
+Nyandarua,Ol Kalou,91,72997,11202,35690,202,232
+Nyeri,Kieni,95,114573,11894,62507,199,261
+Nyeri,Mathira,96,104492,9328,63715,139,257
+Nyeri,Mukurweini,98,58534,5514,34322,132,163
+Nyeri,Nyeri Town,99,87536,12088,43576,237,286
+Nyeri,Othaya,97,0,7249,36606,145,205
+Nyeri,Tetu,94,54986,5970,31781,130,172
+Samburu,Samburu East,135,26794,8147,9098,17,71
+Samburu,Samburu North,134,29830,14598,7015,17,63
+Samburu,Samburu West,133,43429,18992,12206,28,104
+Siaya,Alego Usonga,234,122009,85301,865,40,166
+Siaya,Bondo,236,104035,73603,720,22,94
+Siaya,Gem,235,93568,63438,702,41,143
+Siaya,Rarieda,237,84849,61067,661,40,141
+Siaya,Ugenya,232,69027,47252,842,49,103
+Siaya,Ugunja,233,60114,40540,517,17,88
+Taita Taveta,Mwatate,25,44411,20376,6010,54,193
+Taita Taveta,Taveta,23,41062,21069,6690,42,136
+Taita Taveta,Voi,26,,,,,
+Taita Taveta,Wundanyi,24,35047,16847,4309,75,238
+Tana River,Bura,20,,,,,
+Tana River,Galole,19,39979,16744,11566,109,178
+Tana River,Garsen,18,,,,,
+Tharaka - Nithi,Chuka/igambang'ombe,61,84708,5249,53038,173,345
+Tharaka - Nithi,Maara,60,73248,4902,45182,134,275
+Tharaka - Nithi,Tharaka,62,74010,4877,46582,154,522
+Trans Nzoia,Cherangany,140,91668,27278,34981,89,162
+Trans Nzoia,Endebess,137,50688,13954,18255,50,78
+Trans Nzoia,Kiminini,139,93240,34863,20924,113,264
+Trans Nzoia,Kwanza,136,75839,29040,16162,82,181
+Trans Nzoia,Saboti,138,87633,27269,26410,80,196
+Turkana,Loima,126,36515,13042,8025,36,57
+Turkana,Turkana Central,125,55997,18848,14089,82,128
+Turkana,Turkana East,128,20000,11080,1367,19,46
+Turkana,Turkana North,123,42994,15318,10675,43,41
+Turkana,Turkana South,127,40432,20472,3088,51,79
+Turkana,Turkana West,124,42673,17107,9288,44,86
+Uasin Gishu,Ainabkoi,144,62611,8620,35401,50,86
+Uasin Gishu,Kapseret,145,74933,14900,35218,60,92
+Uasin Gishu,Kesses,146,77992,8966,45653,61,88
+Uasin Gishu,Moiben,143,77877,6772,49625,54,51
+Uasin Gishu,Soy,141,92702,10824,55903,49,107
+Uasin Gishu,Turbo,142,120202,25950,51062,116,166
+Vihiga,Emuhaya,215,50185,21531,9440,104,295
+Vihiga,Hamisi,213,80384,31133,14589,86,282
+Vihiga,Luanda,214,,,,,
+Vihiga,Sabatia,212,,,,,
+Vihiga,Vihiga,211,52309,17140,12432,84,232
+Wajir,Eldas,37,,,,,
+Wajir,Tarbaj,35,25267,8912,9735,51,96
+Wajir,Wajir East,34,35803,13712,8152,36,120
+Wajir,Wajir North,33,33927,12853,8202,61,145
+Wajir,Wajir South,38,,,,,
+Wajir,Wajir West,36,31334,14845,6305,16,58
+West Pokot,Kacheliba,131,,,,,
+West Pokot,Kapenguria,129,66556,15042,35242,57,101
+West Pokot,Pokot South,132,58536,17489,28825,66,132
+West Pokot,Sigor,130,43934,13774,21261,55,102
